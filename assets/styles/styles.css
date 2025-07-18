@@ -6,3 +6,22 @@
 .fotoPrincipal{
     width: 300px;
 }
+
+.tipografiaAnton{
+font-family: "Anton", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.fondoColor1{
+    background-color: #283747;
+}
+
+.fondoColor2{
+    background-color: #5d6d7e;
+}
+
+.fondoColor3{
+    background-color: #7294b9;
+}
